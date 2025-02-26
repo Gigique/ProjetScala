@@ -1,0 +1,6 @@
+{
+  "path" : "src/main/resources/DataforTest/data.csv",
+  "delimiter": "#",
+  "header": true
+
+}
